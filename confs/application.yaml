@@ -6,9 +6,9 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/TU_LOGIN/inception-of-things'
+    repoURL: 'https://github.com/cronopi/mmendiol'
     targetRevision: HEAD
-    path: p3/confs
+    path: confs
   destination:
     server: 'https://kubernetes.default.svc'
     namespace: dev
